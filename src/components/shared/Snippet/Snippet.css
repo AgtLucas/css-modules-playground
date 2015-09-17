@@ -12,7 +12,7 @@
   border-top-width: 0;
 }
 
-.output-content {
+.outputContent {
   padding: 40px 30px;
 }
 
@@ -24,7 +24,7 @@
   margin-bottom: 20px;
 }
 
-.file-name {
+.fileName {
   background: #011E2D;
   color: #00B37D;
   padding: 10px 20px;
