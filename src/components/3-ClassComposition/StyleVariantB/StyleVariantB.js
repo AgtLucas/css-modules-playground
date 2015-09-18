@@ -1,13 +1,13 @@
-import styles from './StyleVariantA.css';
+import styles from './StyleVariantB.css';
 
 import React from 'react';
 
-export default class StyleVariantA extends React.Component {
+export default class StyleVariantB extends React.Component {
 
   render() {
     return(
       <div className={styles.root}>
-        <p className={styles.text}>Style Variant A</p>
+        <p className={styles.text}>Style Variant B</p>
       </div>
     );
   }
