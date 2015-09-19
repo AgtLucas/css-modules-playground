@@ -25,7 +25,7 @@ module.exports = {
 
   postcss: [
     require('autoprefixer-core'),
-    require('postcss-color-rebbecapurple')
+    require('postcss-color-rebeccapurple')
   ],
 
   resolve: {
