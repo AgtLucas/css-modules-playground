@@ -4,7 +4,7 @@
   "description": "Playing with CSS Modules",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",

@@ -9,7 +9,7 @@ var fs = require('fs');
 module.exports = {
   entry: './scr/index.js',
 
-  output = {
+  output: {
     filename: 'index.js',
     path: path.resolve('./dist'),
     libraryTarget: 'umd'
