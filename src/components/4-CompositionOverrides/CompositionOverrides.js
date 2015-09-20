@@ -1,4 +1,4 @@
-import stylest from './CompositionOverrides.css';
+import styles from './CompositionOverrides.css';
 
 import React from 'react';
 
