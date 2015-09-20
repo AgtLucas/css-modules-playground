@@ -7,7 +7,7 @@ var ejs = require('ejs');
 var fs = require('fs');
 
 module.exports = {
-  entry: './scr/index.js',
+  entry: './src/index.js',
 
   output: {
     filename: 'index.js',
