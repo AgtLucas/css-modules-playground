@@ -35,7 +35,7 @@ module.exports = {
   plugins: [
     new ExtractTextPlugin('style.css', { allChunks: true }),
     new ReactToHtmlPlugin('index.html', 'index.js', {
-      template: ejs.compile(fs.readFileSync(__dirname, + '/src/template.ejs', 'utf-8'))
+      template: ejs.compile(fs.readFileSync(__dirname + '/src/template.ejs', 'utf-8'))
     })
   ]
 };
