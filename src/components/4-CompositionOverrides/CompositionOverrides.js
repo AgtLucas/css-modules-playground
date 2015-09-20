@@ -1,8 +1,8 @@
-import stylest from './CompostionOverrides.css';
+import stylest from './CompositionOverrides.css';
 
 import React from 'react';
 
-export default class CompostionOverrides extends React.Component {
+export default class CompositionOverrides extends React.Component {
 
   render() {
     return(

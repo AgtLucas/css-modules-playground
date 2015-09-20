@@ -1,4 +1,4 @@
-import CompostionOverrides from './CompostionOverrides';
+import CompositionOverrides from './CompositionOverrides';
 
 import React from 'react';
 
